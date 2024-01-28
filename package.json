@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/issues"
   },
-  "homepage": "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY#readme"
+  "homepage": "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY#readme",
+  "publishConfig": {
+    "@Zapan2006:registry": "https://npm.pkg.github.com"
+  }
 }
